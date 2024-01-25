@@ -83,8 +83,8 @@ author:
   name             : "Saif Ur Rahman"
   avatar           : "profile.jpeg"
   bio              : "CS PhD Student"
-  location         : "UIUC"
-  employer         :
+  location         : "Urbana, Illinois"
+  employer         : "UIUC"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  CV               : "files/Saif_CV.pdf"
 
 
 # Reading Files

@@ -114,8 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
-  CV               : "files/Saif_CV.pdf"
+  wikipedia        : #CV               : "files/Saif_CV.pdf"
 
 
 # Reading Files
